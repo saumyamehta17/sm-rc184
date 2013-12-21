@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.2669903" vertical-offset="0" max-vertical-offset="675">
+            <state line="40" column="0" selection-start="588" selection-end="588" vertical-scroll-proportion="-21.12" vertical-offset="72" max-vertical-offset="690">
               <folding />
             </state>
           </provider>
@@ -72,6 +72,15 @@
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="0" selection-start="542" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.8543689" vertical-offset="27" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -89,7 +98,6 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.rvmrc" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
@@ -97,6 +105,7 @@
         <option value="$PROJECT_DIR$/app/models/post.rb" />
         <option value="$PROJECT_DIR$/app/views/comments/_form.html.erb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -454,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="487" selection-end="487" vertical-scroll-proportion="0.3732504" vertical-offset="0" max-vertical-offset="643">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="24" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="810">
@@ -489,6 +491,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="588" selection-end="588" vertical-scroll-proportion="-21.12" vertical-offset="72" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="542" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
@@ -496,9 +505,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.2669903" vertical-offset="0" max-vertical-offset="675">
+        <state line="37" column="0" selection-start="732" selection-end="732" vertical-scroll-proportion="0.8543689" vertical-offset="27" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
