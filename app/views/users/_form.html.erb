@@ -1,0 +1,9 @@
+<%= semantic_form_for(@user) do |f| %>
+  <%#= f.error_messages if error? %>
+  <%= f.inputs  do %>
+        <%= f.input :name %>
+        <%= f.input :gender, as: :radio, collection: [['Female',true],['Male',false]] %>
+        <%= f.input :posts %>
+  <% end %>
+  <%= f.actions %>
+<% end %>

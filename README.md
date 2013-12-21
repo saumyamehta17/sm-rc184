@@ -1,5 +1,8 @@
+Railscast sm-rc184 and Railscast sm-rc185
+==========================================
+
 Railscast sm-rc184
-==================
+---------------------
 
 Formtastic
 ```
@@ -38,3 +41,19 @@ Rails server
 ```
 rails s
 ```
+
+Railscast sm-rc185
+-------------------
+now Formtastic with has_many :through
+````
+user and post has many to many association
+```
+If want to customize behaviour
+```
+config/intializers and create formtastic_config.rb
+```
+
+If want to have standard error messages at top
+```
+use f.error_messages in form
+
